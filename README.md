@@ -17,3 +17,9 @@ In this setup, the "secrets.json" file is allocated in the project's root direct
       "SOCIAL_AUTH_FACEBOOK_KEY": "9834293749264938",
       "SOCIAL_AUTH_FACEBOOK_SECRET": "sdf798f6sd786a9370gd7fs20e"
     }
+    
+    
+## django-sslserver
+
+    python manage.py runsslserver development.com:8000
+    
